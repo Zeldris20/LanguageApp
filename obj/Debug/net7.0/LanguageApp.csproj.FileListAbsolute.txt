@@ -1,0 +1,14 @@
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\bin\Debug\net7.0\LanguageApp.exe
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\bin\Debug\net7.0\LanguageApp.deps.json
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\bin\Debug\net7.0\LanguageApp.runtimeconfig.json
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\bin\Debug\net7.0\LanguageApp.dll
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\bin\Debug\net7.0\LanguageApp.pdb
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.AssemblyInfo.cs
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.dll
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\refint\LanguageApp.dll
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.pdb
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\LanguageApp.genruntimeconfig.cache
+C:\Users\ZeldrisOW\Documents\git\LanguageApp\obj\Debug\net7.0\ref\LanguageApp.dll
