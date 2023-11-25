@@ -79,8 +79,8 @@ class Program
             // Get the translation for the randomly selected language
             string translation = languageDictionary[randomLanguageKey];
 
-            // Set console encoding to UTF-8
-            Console.OutputEncoding = Encoding.UTF8;
+           // Set console encoding to UTF-16 (Unicode)
+            Console.OutputEncoding = Encoding.Unicode;
 
             // Output the translation
             Console.WriteLine($"Translation for 'hello' in {cleanLanguageKey}: {translation}");
